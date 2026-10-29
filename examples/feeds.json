@@ -1,0 +1,21 @@
+{
+  "feeds": [
+    {
+      "id": "monthly-payroll",
+      "partner_id": "demo-partner",
+      "timezone": "America/Los_Angeles",
+      "schedule": {
+        "kind": "nth_weekday",
+        "nth": 2,
+        "weekday": 0,
+        "time": "08:00"
+      },
+      "grace_minutes": 300,
+      "ack": {
+        "days_after": 2,
+        "time": "17:00"
+      }
+    }
+  ],
+  "spec_version": "1.0"
+}

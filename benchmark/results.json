@@ -1,0 +1,143 @@
+{
+  "dataset_version": "1.0.0",
+  "interpretation": "Synthetic conformance evaluation; not field accuracy or evidence of novelty.",
+  "methods": {
+    "etm": {
+      "exact_match": 1.0,
+      "micro": {
+        "f1": 1.0,
+        "fn": 0,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "tp": 330
+      },
+      "per_class": {
+        "LATE_ACK": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        },
+        "LATE_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        },
+        "MISSING_ACK": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 150
+        },
+        "MISSING_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        }
+      }
+    },
+    "transfer_only": {
+      "exact_match": 0.5,
+      "micro": {
+        "f1": 0.5333333333333333,
+        "fn": 210,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 0.36363636363636365,
+        "tp": 120
+      },
+      "per_class": {
+        "LATE_ACK": {
+          "f1": 0.0,
+          "fn": 60,
+          "fp": 0,
+          "precision": null,
+          "recall": 0.0,
+          "tp": 0
+        },
+        "LATE_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        },
+        "MISSING_ACK": {
+          "f1": 0.0,
+          "fn": 150,
+          "fp": 0,
+          "precision": null,
+          "recall": 0.0,
+          "tp": 0
+        },
+        "MISSING_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        }
+      }
+    },
+    "uncorrelated_receipt": {
+      "exact_match": 0.7857142857142857,
+      "micro": {
+        "f1": 0.8421052631578947,
+        "fn": 90,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 0.7272727272727273,
+        "tp": 240
+      },
+      "per_class": {
+        "LATE_ACK": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        },
+        "LATE_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        },
+        "MISSING_ACK": {
+          "f1": 0.5714285714285714,
+          "fn": 90,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 0.4,
+          "tp": 60
+        },
+        "MISSING_FILE": {
+          "f1": 1.0,
+          "fn": 0,
+          "fp": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "tp": 60
+        }
+      }
+    }
+  },
+  "occurrences": 420,
+  "seed": 42
+}

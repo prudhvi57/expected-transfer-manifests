@@ -1,0 +1,79 @@
+{
+ "feeds": 300,
+ "feed_mix": {
+  "weekly": 125,
+  "daily": 125,
+  "nrt": 50
+ },
+ "acked_feeds": 237,
+ "train_events": 43166,
+ "test_events": 93587,
+ "lost_in_outage": 404,
+ "expected_test_occurrences": 54800,
+ "manifests_learned_exactly": 295,
+ "learn_seconds": 0.714,
+ "reconcile_seconds": 0.928,
+ "detection": {
+  "missing_send": [
+   195,
+   193,
+   2
+  ],
+  "missing_ack": [
+   149,
+   145,
+   4
+  ],
+  "late_ack": [
+   73,
+   72,
+   1
+  ],
+  "duplicate": [
+   74,
+   74,
+   0
+  ],
+  "partial": [
+   72,
+   72,
+   0
+  ]
+ },
+ "retry_occurrences_alerted": 0,
+ "retry_total": 99,
+ "etm_false_alerts": {
+  "schedule change": 111
+ },
+ "etm_monitoring_gap_alerts": 253,
+ "baseline_missing_detected": [
+  195,
+  195
+ ],
+ "baseline_false_alerts": {
+  "DST offset shift": 10687,
+  "schedule change": 113,
+  "holiday": 555,
+  "collector outage": 268
+ },
+ "baseline_total_alerts": 11832,
+ "etm_total_alerts": 925,
+ "local_baseline_missing_detected": 195,
+ "local_baseline_false_alerts": {
+  "schedule change": 116,
+  "holiday": 437,
+  "collector outage": 232,
+  "other": 17
+ },
+ "local_baseline_total": 997,
+ "holiday_occurrences_skipped": 139,
+ "runs": 5,
+ "max_reconcile_seconds": 0.21,
+ "per_run_manifests_exact": [
+  59,
+  59,
+  58,
+  59,
+  60
+ ]
+}

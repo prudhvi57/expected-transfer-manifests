@@ -1,0 +1,2 @@
+{"id":"evt-1","feed_id":"monthly-payroll","partner_id":"demo-partner","occurrence_id":"2026-10-12","kind":"transfer","status":"success","timestamp":"2026-10-12T08:03:00-07:00","transfer_id":"batch-001"}
+{"id":"evt-2","feed_id":"monthly-payroll","partner_id":"demo-partner","occurrence_id":"2026-10-12","kind":"transport_receipt","status":"success","timestamp":"2026-10-12T08:04:00-07:00"}

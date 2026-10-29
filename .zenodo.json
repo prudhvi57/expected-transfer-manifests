@@ -1,0 +1,7 @@
+{
+  "title": "Expected Transfer Manifests: specification, simulator and benchmark",
+  "upload_type": "software",
+  "creators": [{"name": "Katragadda, Prudhvi Raj", "affiliation": "Independent Researcher"}],
+  "license": "MIT",
+  "keywords": ["managed file transfer", "electronic data interchange", "missing file detection", "acknowledgments", "monitoring"]
+}
