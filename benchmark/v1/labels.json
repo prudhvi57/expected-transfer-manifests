@@ -1,0 +1,3572 @@
+[
+  {
+    "feed_id": "on_time-0000",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0001",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0002",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0003",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0004",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0005",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0006",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0007",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0008",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0009",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0010",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0011",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0012",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0013",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0014",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0015",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0016",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0017",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0018",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0019",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0020",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0021",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0022",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0023",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0024",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0025",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0026",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0027",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0028",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "on_time-0029",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "on_time"
+  },
+  {
+    "feed_id": "missing_file-0000",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0001",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0002",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0003",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0004",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0005",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0006",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0007",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0008",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0009",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0010",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0011",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0012",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0013",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0014",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0015",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0016",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0017",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0018",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0019",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0020",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0021",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0022",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0023",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0024",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0025",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0026",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0027",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0028",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "missing_file-0029",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_file"
+  },
+  {
+    "feed_id": "failed_only-0000",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0001",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0002",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0003",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0004",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0005",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0006",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0007",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0008",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0009",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0010",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0011",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0012",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0013",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0014",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0015",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0016",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0017",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0018",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0019",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0020",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0021",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0022",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0023",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0024",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0025",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0026",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0027",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0028",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "failed_only-0029",
+    "findings": [
+      "MISSING_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "failed_only"
+  },
+  {
+    "feed_id": "late_file-0000",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0001",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0002",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0003",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0004",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0005",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0006",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0007",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0008",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0009",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0010",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0011",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0012",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0013",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0014",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0015",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0016",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0017",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0018",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0019",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0020",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0021",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0022",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0023",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0024",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0025",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0026",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0027",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0028",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "late_file-0029",
+    "findings": [
+      "LATE_FILE"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_file"
+  },
+  {
+    "feed_id": "missing_ack-0000",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0001",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0002",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0003",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0004",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0005",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0006",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0007",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0008",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0009",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0010",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0011",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0012",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0013",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0014",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0015",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0016",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0017",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0018",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0019",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0020",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0021",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0022",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0023",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0024",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0025",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0026",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0027",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0028",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "missing_ack-0029",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "missing_ack"
+  },
+  {
+    "feed_id": "late_ack-0000",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0001",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0002",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0003",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0004",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0005",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0006",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0007",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0008",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0009",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0010",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0011",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0012",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0013",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0014",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0015",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0016",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0017",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0018",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0019",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0020",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0021",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0022",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0023",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0024",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0025",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0026",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0027",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0028",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "late_ack-0029",
+    "findings": [
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_ack"
+  },
+  {
+    "feed_id": "receipt_only-0000",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0001",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0002",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0003",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0004",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0005",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0006",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0007",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0008",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0009",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0010",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0011",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0012",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0013",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0014",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0015",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0016",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0017",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0018",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0019",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0020",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0021",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0022",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0023",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0024",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0025",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0026",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0027",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0028",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "receipt_only-0029",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "receipt_only"
+  },
+  {
+    "feed_id": "wrong_reference-0000",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0001",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0002",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0003",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0004",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0005",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0006",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0007",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0008",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0009",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0010",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0011",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0012",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0013",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0014",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0015",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0016",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0017",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0018",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0019",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0020",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0021",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0022",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0023",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0024",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0025",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0026",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0027",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0028",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_reference-0029",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_reference"
+  },
+  {
+    "feed_id": "wrong_partner-0000",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0001",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0002",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0003",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0004",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0005",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0006",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0007",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0008",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0009",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0010",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0011",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0012",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0013",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0014",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0015",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0016",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0017",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0018",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0019",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0020",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0021",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0022",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0023",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0024",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0025",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0026",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0027",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0028",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "wrong_partner-0029",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "wrong_partner"
+  },
+  {
+    "feed_id": "ack_before_transfer-0000",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0001",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0002",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0003",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0004",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0005",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0006",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0007",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0008",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0009",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0010",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0011",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0012",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0013",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0014",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0015",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0016",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0017",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0018",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0019",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0020",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0021",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0022",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0023",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0024",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0025",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0026",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0027",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0028",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "ack_before_transfer-0029",
+    "findings": [
+      "MISSING_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "ack_before_transfer"
+  },
+  {
+    "feed_id": "retry_success-0000",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0001",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0002",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0003",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0004",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0005",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0006",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0007",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0008",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0009",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0010",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0011",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0012",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0013",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0014",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0015",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0016",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0017",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0018",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0019",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0020",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0021",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0022",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0023",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0024",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0025",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0026",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0027",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0028",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "retry_success-0029",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "retry_success"
+  },
+  {
+    "feed_id": "duplicate_events-0000",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0001",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0002",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0003",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0004",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0005",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0006",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0007",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0008",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0009",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0010",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0011",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0012",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0013",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0014",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0015",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0016",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0017",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0018",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0019",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0020",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0021",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0022",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0023",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0024",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0025",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0026",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0027",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0028",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "duplicate_events-0029",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "duplicate_events"
+  },
+  {
+    "feed_id": "deadline_exact-0000",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0001",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0002",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0003",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0004",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0005",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0006",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0007",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0008",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0009",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0010",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0011",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0012",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0013",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0014",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0015",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0016",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0017",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0018",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0019",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0020",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0021",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0022",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0023",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0024",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0025",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0026",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0027",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0028",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "deadline_exact-0029",
+    "findings": [],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "deadline_exact"
+  },
+  {
+    "feed_id": "late_both-0000",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0001",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0002",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0003",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0004",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0005",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0006",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0007",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0008",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0009",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0010",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0011",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0012",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0013",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0014",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0015",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0016",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0017",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0018",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0019",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0020",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0021",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0022",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0023",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0024",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0025",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0026",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0027",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0028",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  },
+  {
+    "feed_id": "late_both-0029",
+    "findings": [
+      "LATE_FILE",
+      "LATE_ACK"
+    ],
+    "occurrence_id": "2026-01-05",
+    "partner_id": "synthetic-partner",
+    "scenario": "late_both"
+  }
+]

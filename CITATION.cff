@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite it as below."
+title: "Expected Transfer Manifests: specification, simulator and benchmark"
+type: software
+authors:
+  - family-names: Katragadda
+    given-names: Prudhvi Raj
+    affiliation: Independent Researcher
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+keywords:
+  - managed file transfer
+  - electronic data interchange
+  - missing file detection
+  - acknowledgments
+  - monitoring
