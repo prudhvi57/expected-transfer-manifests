@@ -1,5 +1,7 @@
 # Expected Transfer Manifests (ETM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23751848.svg)](https://doi.org/10.5281/zenodo.23751848)
+
 Detect missing files and missing business acknowledgments in scheduled
 managed file transfer (MFT) and EDI flows, using metadata only.
 
@@ -63,5 +65,5 @@ written with AI assistance and reviewed by the author.
 
 ## Cite
 
-See [CITATION.cff](CITATION.cff). Code, specification and data are MIT licensed.
+DOI: [10.5281/zenodo.23751848](https://doi.org/10.5281/zenodo.23751848). See [CITATION.cff](CITATION.cff). Code, specification and data are MIT licensed.
 Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
